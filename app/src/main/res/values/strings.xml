@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EggTimer</string>
+    <string name="startTimer">Start</string>
+    <string name="stopTimer">Stop</string>
+    <string name="egg_with_timer">Egg with timer</string>
+    <string name="Timer0">00:00</string>
+    <string name="TimeCount">%02d:%02d %s!</string>
+    <string name="Minute_prompt">Choose the amount of minutes you require.</string>
+    <string name="Second_prompt">Choose the amount of seconds you require.</string>
+</resources>
